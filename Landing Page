@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garcia Insurance Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f1ea;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #8c7b75;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            text-align: center;
+            margin: 1em 0;
+        }
+        nav a {
+            margin: 0 1em;
+            text-decoration: none;
+            color: #8c7b75;
+            font-weight: bold;
+        }
+        main {
+            padding: 2em;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .cta {
+            background-color: #d4a373;
+            color: #fff;
+            padding: 1em 2em;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2em;
+            margin-top: 1em;
+            text-transform: uppercase;
+        }
+        footer {
+            background-color: #8c7b75;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Garcia Insurance Services</h1>
+        <p>Protecting Your Future, Today</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <main>
+        <h1>Welcome to Garcia Insurance Services</h1>
+        <p>At Garcia Insurance Services, we are dedicated to providing comprehensive life insurance solutions tailored to meet your specific needs. Our goal is to ensure that you and your loved ones are protected with the coverage that best fits your life.</p>
+        <button class="cta">Get a Free Quote</button>
+    </main>
+      <footer><p>© 2024 Garcia Insurance Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
